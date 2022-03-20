@@ -1,0 +1,22 @@
+body {
+   background-color: #DFF6FF;
+}
+
+hr {
+    /* background-color: white; */
+    border-style: dotted none none;
+    border-color: green;
+    border-width: 5px;
+    /* border-top: 3px dotted none none none; */
+    height: 10px;
+    width: 5%;
+}
+
+h1 {
+  color: crimson;
+}
+
+
+h3 {
+  color: #C1DEAE;
+}

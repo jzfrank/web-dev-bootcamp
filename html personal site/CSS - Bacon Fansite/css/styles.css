@@ -1,0 +1,38 @@
+/* Tag selection  */
+
+h1 {
+  font-size: 100px;
+  color: red;
+  /* background-color: blue; */
+}
+
+img:hover {
+  background-color: silver;
+}
+
+/* class selection  */
+.bacon {
+  background-color: green;
+}
+
+.bacon:hover {
+  background-color: gold;
+}
+
+
+.broccoli {
+  background-color: red;
+}
+
+.circular {
+  border-radius: 100%
+}
+
+/* ID selection */
+#heading {
+  color: blue;
+}
+
+#big {
+  size: 100px;
+}
